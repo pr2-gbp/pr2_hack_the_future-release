@@ -1,0 +1,12 @@
+Source: ros-hydro-slider-gui
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-actionlib, ros-hydro-catkin, ros-hydro-face-detector, ros-hydro-korg-nanokontrol, ros-hydro-pr2-controllers-msgs, ros-hydro-pr2-mechanism-msgs, ros-hydro-program-queue, ros-hydro-rospy, ros-hydro-rviz-backdrop, ros-hydro-sensor-msgs, ros-hydro-sound-play, ros-hydro-std-srvs, ros-hydro-trajectory-msgs
+Homepage: http://ros.org/wiki/slider_gui
+Standards-Version: 3.9.2
+
+Package: ros-hydro-slider-gui
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-actionlib, ros-hydro-face-detector, ros-hydro-korg-nanokontrol, ros-hydro-pr2-controllers-msgs, ros-hydro-pr2-mechanism-msgs, ros-hydro-program-queue, ros-hydro-rospy, ros-hydro-rviz-backdrop, ros-hydro-sensor-msgs, ros-hydro-sound-play, ros-hydro-std-srvs, ros-hydro-trajectory-msgs
+Description: slider_gui

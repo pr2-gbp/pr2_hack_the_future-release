@@ -1,0 +1,12 @@
+Source: ros-hydro-queue-web
+Section: misc
+Priority: extra
+Maintainer: Austin Hendrix <ahendrix@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin
+Homepage: http://ros.org/wiki/queue_web
+Standards-Version: 3.9.2
+
+Package: ros-hydro-queue-web
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: queue_web

@@ -1,0 +1,12 @@
+Source: ros-hydro-program-queue
+Section: misc
+Priority: extra
+Maintainer: Austin Hendrix <ahrendrix@willowgarage.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-hack-the-web-program-executor, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-std-srvs
+Homepage: http://ros.org/wiki/program_queue
+Standards-Version: 3.9.2
+
+Package: ros-hydro-program-queue
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-hack-the-web-program-executor, ros-hydro-rospy, ros-hydro-std-msgs, ros-hydro-std-srvs
+Description: program_queue

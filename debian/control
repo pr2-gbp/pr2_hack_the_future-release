@@ -1,0 +1,12 @@
+Source: ros-hydro-rviz-backdrop
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-rviz
+Homepage: http://ros.org/wiki/rviz_backdrop
+Standards-Version: 3.9.2
+
+Package: ros-hydro-rviz-backdrop
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-rviz
+Description: rviz_backdrop

@@ -1,0 +1,44 @@
+ros-indigo-rviz-backdrop (1.1.0-0saucy) saucy; urgency=high
+
+  * install the plugin description xml, fixes #2 <https://github.com/PR2/pr2_hack_the_future/issues/2>
+  * Contributors: William Woodall
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 08 Dec 2015 08:00:00 -0000
+
+ros-indigo-rviz-backdrop (1.0.9-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 10 Feb 2015 08:00:00 -0000
+
+ros-indigo-rviz-backdrop (1.0.8-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Tue, 14 Oct 2014 07:00:00 -0000
+
+ros-indigo-rviz-backdrop (1.0.7-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Sat, 11 Oct 2014 07:00:00 -0000
+
+ros-indigo-rviz-backdrop (1.0.5-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 17 Sep 2014 07:00:00 -0000
+
+ros-indigo-rviz-backdrop (1.0.4-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 10 Sep 2014 07:00:00 -0000
+
+ros-indigo-rviz-backdrop (1.0.2-0saucy) saucy; urgency=high
+
+
+
+ -- Devon Ash <dash@clearpathrobotics.com>  Wed, 10 Sep 2014 07:00:00 -0000
+
+

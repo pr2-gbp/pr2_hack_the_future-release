@@ -1,0 +1,12 @@
+Source: ros-indigo-slider-gui
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-face-detector, ros-indigo-korg-nanokontrol, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-mechanism-msgs, ros-indigo-program-queue, ros-indigo-rospy, ros-indigo-rviz-backdrop, ros-indigo-sensor-msgs, ros-indigo-sound-play, ros-indigo-std-srvs, ros-indigo-trajectory-msgs
+Homepage: http://ros.org/wiki/slider_gui
+Standards-Version: 3.9.2
+
+Package: ros-indigo-slider-gui
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-face-detector, ros-indigo-korg-nanokontrol, ros-indigo-pr2-controllers-msgs, ros-indigo-pr2-mechanism-msgs, ros-indigo-program-queue, ros-indigo-rospy, ros-indigo-rviz-backdrop, ros-indigo-sensor-msgs, ros-indigo-sound-play, ros-indigo-std-srvs, ros-indigo-trajectory-msgs
+Description: slider_gui

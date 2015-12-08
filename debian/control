@@ -1,0 +1,12 @@
+Source: ros-indigo-hack-the-web-program-executor
+Section: misc
+Priority: extra
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: http://ros.org/wiki/hack_the_web_program_executor
+Standards-Version: 3.9.2
+
+Package: ros-indigo-hack-the-web-program-executor
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, 
+Description: hack_the_web_program_executor
